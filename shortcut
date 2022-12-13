@@ -1,0 +1,12 @@
+//to duplicate line 
+shift + alt + uparrow
+
+//to select same word of all line 
+ctrl + d
+
+//to hold the line and move 
+alt + arrow key
+
+//to comment in every line 
+select line and press ctrl + /
+
